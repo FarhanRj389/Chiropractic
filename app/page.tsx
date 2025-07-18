@@ -65,7 +65,7 @@ export default function HomePage() {
           src="/images_1.jpg"
           alt="Young physiotherapist helping patient with back problems"
           
-          className="z-0 object-fill w-full h-[600px] lg:h-[900px]"
+          className="z-0 object-fill w-full h-[400px] lg:h-[900px]"
         />
         <div className="absolute inset-0 bg-black/60 z-10 flex items-center justify-center text-center px-4">
           <div className="max-w-4xl text-white space-y-6">
